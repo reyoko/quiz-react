@@ -1,4 +1,4 @@
-import styled from 'styled-components'
+import styled from 'styled-components';
 
 // src/components/Footer/index.js
 const FooterWrapper = styled.footer`
@@ -31,7 +31,7 @@ export default function Footer(props) {
     <FooterWrapper {...props}>
     
       <p>
-       esse é o footer
+        esse é o footer
       </p>
     </FooterWrapper>
   );
